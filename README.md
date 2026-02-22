@@ -28,11 +28,12 @@ A Full-Stack Machine Learning Web Application built with Python, Scikit-Learn, a
 pip install pandas scikit-learn streamlit joblib
 
 
-
+```
 
 3. **Run the application:**
 ```bash
 streamlit run app.py
 
 ```
+
 
