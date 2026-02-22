@@ -21,13 +21,13 @@ A Full-Stack Machine Learning Web Application built with Python, Scikit-Learn, a
    git clone https://github.com/Ahmed-Saeed-Abdullah-Alshanwany/Real-Estate-Predictor.git
    cd Real-Estate-Predictor
 
-```
+
 
 2. **Install the required dependencies:**
 ```bash
 pip install pandas scikit-learn streamlit joblib
 
-```
+
 
 
 3. **Run the application:**
@@ -35,3 +35,4 @@ pip install pandas scikit-learn streamlit joblib
 streamlit run app.py
 
 ```
+
