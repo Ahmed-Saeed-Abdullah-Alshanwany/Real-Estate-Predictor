@@ -36,4 +36,6 @@ streamlit run app.py
 
 ```
 
+<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/62d2c614-c010-4c8c-89b7-09903aab40ca" />
+
 
