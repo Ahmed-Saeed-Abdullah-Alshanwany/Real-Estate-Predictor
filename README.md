@@ -2,6 +2,11 @@
 
 A Full-Stack Machine Learning Web Application built with Python, Scikit-Learn, and Streamlit. This app predicts real estate prices in Egypt based on user inputs such as area, number of bedrooms, location, and finishing type.
 
+## 📸 App Preview
+<div align="center">
+  <img src="1.png" alt="Real Estate Predictor UI" width="700">
+</div>
+
 ## ✨ Features
 - **Machine Learning Model:** Utilizes a trained `RandomForestRegressor` for accurate price estimation.
 - **Interactive UI:** Built with `Streamlit` to provide a seamless and user-friendly web interface.
